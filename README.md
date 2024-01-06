@@ -9,11 +9,7 @@ This repository contains a collection of simplified programming examples inspire
 
 - `README.md` (this file): Provides an overview of the repository.
 - `OVERVIEW.md`: A detailed overview of the SICP concepts and how they are implemented across different languages.
-- Individual Markdown files for each programming language:
-  - `Java.md`
-  - `TypeScript.md`
-  - `Kotlin.md`
-  - ... (additional languages as added)
+- Individual Markdown files for each programming language.
 
 ### Contents in Each Language File
 
